@@ -31,3 +31,10 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Using the application
+
+To connect to the Pump Controller, first click the "Scan for Devices" button, then connect to the proper device. It should be named "PumpController". After connecting to the Pump Controller, you will now be able to manually or automatically set the pump speed to reach your desired target temperature.
+
+![image info](./schematics/scan_for_devices.jpg)
+![image info](./schematics/pump_control_screen.jpg)
